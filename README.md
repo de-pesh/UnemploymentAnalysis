@@ -34,8 +34,8 @@ The dataset used for this project contains the following key variables:
 
 1.	Clone the repository:
  ```bash
-    git clone https://github.com/de-pesh/unemployment-analysis.git
-    cd unemployment-analysis
+    git clone https://github.com/de-pesh/UnemploymentAanalysis.git
+    cd UnemploymentAnalysis
 ```
 2.	Install the required dependencies:
 ```bash
@@ -63,4 +63,4 @@ A correlation matrix is generated to understand the relationship between the key
 
 ## Conclusion
 
-Through this project, we aim to understand key employment trends in India, offering insights into how various factors related to unemployment and labor participation are correlated. The visualizations provide a clearer picture of the data, making it easier to identify patterns and trends.
+This project aims to understand key employment trends in India, offering insights into how various factors related to unemployment and labor participation are correlated. The visualizations provide a clearer picture of the data, making it easier to identify patterns and trends.
