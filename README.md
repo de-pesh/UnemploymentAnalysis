@@ -34,7 +34,7 @@ The dataset used for this project contains the following key variables:
 
 1.	Clone the repository:
  ```bash
-    git clone https://github.com/your-username/unemployment-analysis.git
+    git clone https://github.com/de-pesh/unemployment-analysis.git
     cd unemployment-analysis
 ```
 2.	Install the required dependencies:
