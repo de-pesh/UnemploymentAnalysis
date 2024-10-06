@@ -4,13 +4,13 @@ This project analyzes the unemployment trends in India using a dataset that capt
 
 ### Table of Contents
 
-•	Project Overview
-•	Dataset
-•	Installation
-•	Project Structure
-•	Visualization
-•	Correlation Analysis
-•	Conclusion
+-	Project Overview
+-	Dataset
+-	Installation
+-	Project Structure
+-	Visualization
+-	Correlation Analysis
+-	Conclusion
 
 ### Project Overview
 
