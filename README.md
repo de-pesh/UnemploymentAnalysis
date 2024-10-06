@@ -11,7 +11,6 @@ This project analyzes the unemployment trends in India using a dataset that capt
 •	Visualization
 •	Correlation Analysis
 •	Conclusion
-•	License
 
 ### Project Overview
 
@@ -23,7 +22,7 @@ This project involves analyzing employment-related data in India to identify pat
 
 The analysis helps in understanding the unemployment rate, the number of employed people, and the labor participation rate.
 
-Dataset
+## Dataset
 
 The dataset used for this project contains the following key variables:
 
@@ -31,11 +30,37 @@ The dataset used for this project contains the following key variables:
 •	Estimated Employed: Number of employed individuals.
 •	Estimated Labour Participation Rate (%): Percentage of people participating in the labor force.
 
-Installation
+## Installation
 
 1.	Clone the repository:
  ```bash
     git clone https://github.com/your-username/unemployment-analysis.git
     cd unemployment-analysis
 ```
+2.	Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+3.	Make sure you have Jupyter Notebook installed to run the .ipynb file.
 
+## Project Structure
+
+•	unemployment.ipynb: The Jupyter notebook containing the code for data analysis and visualization.
+•	data/: Directory where the dataset is stored.
+•	requirements.txt: Contains the list of Python dependencies needed to run the project.
+
+## Visualization
+
+The project uses the following visualization techniques:
+
+•	Line Plots: To show the unemployment trend over time.
+•	Bar Charts: To compare employment metrics between different regions.
+•	Heatmaps: To visualize the correlation between the unemployment rate, employed individuals, and labor participation rate.
+
+## Correlation Analysis
+
+A correlation matrix is generated to understand the relationship between the key variables in the dataset. The heatmap visualization helps in identifying strong or weak correlations, which provides insights into how these employment factors influence each other.
+
+## Conclusion
+
+Through this project, we aim to understand key employment trends in India, offering insights into how various factors related to unemployment and labor participation are correlated. The visualizations provide a clearer picture of the data, making it easier to identify patterns and trends.
