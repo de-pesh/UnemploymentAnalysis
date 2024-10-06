@@ -16,9 +16,9 @@ This project analyzes the unemployment trends in India using a dataset that capt
 
 This project involves analyzing employment-related data in India to identify patterns and trends. The analysis is done through:
 
-•	Data cleaning and preprocessing
-•	Visualization of key metrics
-•	Heatmaps for correlation between variables
+-	Data cleaning and preprocessing
+-	Visualization of key metrics
+-	Heatmaps for correlation between variables
 
 The analysis helps in understanding the unemployment rate, the number of employed people, and the labor participation rate.
 
@@ -26,9 +26,9 @@ The analysis helps in understanding the unemployment rate, the number of employe
 
 The dataset used for this project contains the following key variables:
 
-•	Estimated Unemployment Rate (%): Percentage of unemployed individuals.
-•	Estimated Employed: Number of employed individuals.
-•	Estimated Labour Participation Rate (%): Percentage of people participating in the labor force.
+-	Estimated Unemployment Rate (%): Percentage of unemployed individuals.
+-	Estimated Employed: Number of employed individuals.
+-	Estimated Labour Participation Rate (%): Percentage of people participating in the labor force.
 
 ## Installation
 
@@ -45,17 +45,17 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-•	unemployment.ipynb: The Jupyter notebook containing the code for data analysis and visualization.
-•	data/: Directory where the dataset is stored.
-•	requirements.txt: Contains the list of Python dependencies needed to run the project.
+-	unemployment.ipynb: The Jupyter notebook containing the code for data analysis and visualization.
+-	data/: Directory where the dataset is stored.
+-	requirements.txt: Contains the list of Python dependencies needed to run the project.
 
 ## Visualization
 
 The project uses the following visualization techniques:
 
-•	Line Plots: To show the unemployment trend over time.
-•	Bar Charts: To compare employment metrics between different regions.
-•	Heatmaps: To visualize the correlation between the unemployment rate, employed individuals, and labor participation rate.
+-	Line Plots: To show the unemployment trend over time.
+-	Bar Charts: To compare employment metrics between different regions.
+-	Heatmaps: To visualize the correlation between the unemployment rate, employed individuals, and labor participation rate.
 
 ## Correlation Analysis
 
