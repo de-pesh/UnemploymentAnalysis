@@ -24,32 +24,38 @@ The analysis helps in understanding the unemployment rate, the number of employe
 
 ## Dataset
 
-The dataset used for this project contains the following key variables:
-
--	Estimated Unemployment Rate (%): Percentage of unemployed individuals.
--	Estimated Employed: Number of employed individuals.
--	Estimated Labour Participation Rate (%): Percentage of people participating in the labor force.
+The project uses the following data files:
+- data/Unemployment in India.csv: Main dataset with employment metrics by region and date.
+- data/Unemployment_Rate_upto_11_2020.csv: Additional dataset for extended analysis (not used in the main notebook).
 
 ## Installation
 
-1.	Clone the repository:
- ```bash
-    git clone https://github.com/de-pesh/UnemploymentAanalysis.git
-    cd UnemploymentAnalysis
+1. Clone the repository:
+```bash
+   git clone https://github.com/de-pesh/UnemploymentAanalysis.git
+   cd UnemploymentAnalysis
 ```
-2.	Install the required dependencies:
+2. (Recommended) Create and activate a virtual environment:
+```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use venv\Scripts\activate
+```
+3. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-3.	Make sure you have Jupyter Notebook installed to run the .ipynb file.
+4. Make sure you have Jupyter Notebook installed to run the .ipynb file.
 
 ## Project Structure
 
--	unemployment.ipynb: The Jupyter notebook containing the code for data analysis and visualization.
--	data/: Directory where the dataset is stored.
--	requirements.txt: Contains the list of Python dependencies needed to run the project.
+- unemployment.ipynb: The Jupyter notebook containing the code for data analysis and visualization.
+- requirements.txt: Contains the list of Python dependencies needed to run the project.
+- data/Unemployment in India.csv: Main dataset.
+- data/Unemployment_Rate_upto_11_2020.csv: Additional dataset.
 
 ## Visualization
+
+Sample outputs and visualizations are available in the notebook (unemployment.ipynb).
 
 The project uses the following visualization techniques:
 
